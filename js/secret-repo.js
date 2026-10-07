@@ -1,10 +1,10 @@
 // 解密配置
-const password1 = "123123";
+const password1 = "2ent6k4iyd"; // Portfolio 2 中得到
 const password2 = "234234";
 const password3 = "345345";
 const password4 = "456456";
 
-const hint1 = "请输入密码1";
+const hint1 = "土";
 const hint2 = "请输入密码2";
 const hint3 = "请输入密码3";
 const hint4 = "请输入密码4";
