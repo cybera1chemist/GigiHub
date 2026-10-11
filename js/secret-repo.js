@@ -5,9 +5,9 @@ const password3 = "345345";
 const password4 = "456456";
 
 const hint1 = "土";
-const hint2 = "请输入密码2";
-const hint3 = "请输入密码3";
-const hint4 = "请输入密码4";
+const hint2 = "因为是测试阶段，所以密码就直接告诉你，密码是234234";
+const hint3 = "345345";
+const hint4 = "你猜呢";
 
 const documentCredentials = {
     "1.md": { password: password1, hint: hint1 },
