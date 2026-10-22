@@ -1,13 +1,14 @@
 // 解密配置
+// 10位，数字+小写字母
 const password1 = "2ent6k4iyd"; // Portfolio 2 中得到
 const password2 = "234234";
-const password3 = "345345";
+const password3 = "icu3pspk6v";
 const password4 = "456456";
 
 const hint1 = "土";
-const hint2 = "因为是测试阶段，所以密码就直接告诉你，密码是234234";
-const hint3 = "345345";
-const hint4 = "你猜呢";
+const hint2 = "234234";
+const hint3 = "火";
+const hint4 = "456456";
 
 const documentCredentials = {
     "1.md": { password: password1, hint: hint1 },
